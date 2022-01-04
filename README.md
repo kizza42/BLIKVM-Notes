@@ -10,9 +10,7 @@ https://www.aliexpress.com/item/1005003262886521.html
 I purchased a Raspberry Pi Compute Module 4 from a local Australian Reseller.
 The model I chose will work with a Raspberry Pi Compute Module 4 Lite. This is the module with no EMMC Memory and 2gb RAM
 
-I used a 32GB U1 MicroSD Card and downloaded the Raspberry Pi 4, v3 HAT platform image from here:
-
-https://pikvm.org/download/
+I used a 32GB U1 MicroSD Card and downloaded the Raspberry Pi 4, v3 HAT platform image from [here](https://pikvm.org/download/):
 
 https://files.pikvm.org/images/v3-hdmi-rpi4-latest.img.xz
 
