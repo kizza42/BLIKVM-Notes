@@ -1,6 +1,8 @@
 # BLIKVM-Notes
 Notes for the BLIKVM which is based upon PiKVM but using a Raspberry Pi Compute Module 4
-![PXL_20220104_054924751](https://user-images.githubusercontent.com/12605257/148127711-fbdd234d-ae97-4118-88fc-e55455b4c62e.jpg)
+
+<img src="https://user-images.githubusercontent.com/12605257/148127711-fbdd234d-ae97-4118-88fc-e55455b4c62e.jpg" alt="BLIKVM Picture" width="400"/>
+
 
 I purchased the BLIKVM IO Board from:
 https://www.aliexpress.com/item/1005003262886521.html
