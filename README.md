@@ -23,3 +23,4 @@ systemctl enable --now kvmd-oled
 ro
 ```
 
+Then follow general instructions from: https://docs.pikvm.org/first_steps/
